@@ -35,7 +35,5 @@ g++ glut.cpp -lX11 -lGL -lGLU -lglut -g -o glut
 ./glut #ElementosPorCuadrante
 ./glut 4
 ```
-## Anotaciones
-* El dataset son los crimenes de chicago 
+## Imagenes adjuntadas
 
-##Imagenes adjuntadas
