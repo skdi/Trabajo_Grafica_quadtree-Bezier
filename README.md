@@ -1,6 +1,6 @@
 # Trabajo_Grafica_quadtree-Bezier
 
-1. Curvas de Bezier
+#1. Curvas de Bezier
 Modo de compilación
 
 g++ bezier.cpp -o bezier -lglut -lGLU -lGL -fpermissive
@@ -17,4 +17,20 @@ canvas para el gráfico de las curvas de bezier en tiempo real.
 
 5puntos_luegode4_bezier.png
 
-2.-Quadtree
+
+# 2 Quadtree en C++
+## Instrucciones para compilar
+```
+g++ glut.cpp -lX11 -lGL -lGLU -lglut -g -o glut
+```
+## Instrucciones para ejecutar
+```
+./glut #ElementosPorCuadrante
+./glut 4
+```
+## Anotaciones
+* Con click izq se inserta
+* Con click der se busca usando un circulo
+* El dataset son los crimenes de chicago 
+
+##Imagenes adjuntadas
