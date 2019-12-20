@@ -13,6 +13,8 @@ El programa le pedira el número de puntos, posteriormente se le pedirá hacer e
 canvas para el gráfico de las curvas de bezier en tiempo real.
 
 #imagenes adjuntadas
+4_puntos_bezier.png
 
+5puntos_luegode4_bezier.png
 
 2.-Quadtree
