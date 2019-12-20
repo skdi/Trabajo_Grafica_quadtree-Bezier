@@ -88,7 +88,7 @@ void crear_puntos(int button, int state, int x, int y) {
         for(double t = 0.0;t <= 1.0; t += 0.02)
         {
             Punto p2 = metodo_bezier(vector_puntos,t);
-            glColor3f(0.0,0.0,0.0);
+            glColor3f(255,0.0,0.0);
             glBegin(GL_LINES);
               glVertex2f(p1.x, p1.y);
               glVertex2f(p2.x, p2.y);
