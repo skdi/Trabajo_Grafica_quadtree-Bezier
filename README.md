@@ -35,5 +35,5 @@ g++ glut.cpp -lX11 -lGL -lGLU -lglut -g -o glut
 ./glut #ElementosPorCuadrante
 ./glut 4
 ```
-## Imagenes adjuntadas
-
+# Capturas:
+![Figura 1](quadtree/Quadtree.png)
