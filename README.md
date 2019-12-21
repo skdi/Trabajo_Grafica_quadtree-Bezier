@@ -18,11 +18,11 @@ Modo de Ejecución
 ## Modo de Uso:
 El programa le pedira el número de puntos, posteriormente se le pedirá hacer el mismo número de clicks sobre el
 canvas para el gráfico de las curvas de bezier en tiempo real.
+# Capturas:
+![Figura 1](4_puntos_bezier.png)
 
-#imagenes adjuntadas
-4_puntos_bezier.png
+![Figura 2](5puntos_luegode4_bezier.png)
 
-5puntos_luegode4_bezier.png
 
 
 # 2 Quadtree 
